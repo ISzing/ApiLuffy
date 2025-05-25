@@ -1,0 +1,4 @@
+Flask==2.3.2
+Flask-Cors==3.1.13
+playwright==1.38.1
+Werkzeug==2.3.7
