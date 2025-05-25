@@ -1,0 +1,2 @@
+polskip=0
+skip=10
